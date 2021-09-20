@@ -4,3 +4,9 @@
 [submodule "client/cogitate-client"]
 	path = client/cogitate-client
 	url = https://github.com/Chrono-Velo/cogitate-client
+[submodule "cogitate-client"]
+	path = cogitate-client
+	url = https://github.com/Chrono-Velo/cogitate-client
+[submodule "cogitate-server"]
+	path = cogitate-server
+	url = https://github.com/Chrono-Velo/cogitate-server
