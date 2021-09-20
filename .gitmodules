@@ -1,0 +1,3 @@
+[submodule "server/cogitate-server"]
+	path = server/cogitate-server
+	url = https://github.com/Chrono-Velo/cogitate-server
